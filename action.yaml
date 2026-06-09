@@ -1,4 +1,4 @@
-name: "Podcast generator v2"
+name: "Generate My Podcast Feed"
 author: "Ksenia Frank"
 description: "Generates a feed for a podcast from a YAML file"
 
